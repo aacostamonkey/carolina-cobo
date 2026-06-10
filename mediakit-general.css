@@ -378,6 +378,7 @@ footer p{font-size:11px;letter-spacing:3px;text-transform:uppercase;color:var(--
   .nav-mobile-right{display:flex}
   #hero{grid-template-columns:1fr}
   .hero-img{height:70vw;min-height:320px}
+  .hero-img-overlay{background:linear-gradient(to bottom,transparent 78%,var(--champagne) 100%)}
   .hero-copy{padding:56px 32px}
   .hero-stats{grid-template-columns:repeat(4,1fr)}
   section{padding:72px 24px}
